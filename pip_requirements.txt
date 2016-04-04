@@ -1,0 +1,6 @@
+requests==2.9.1
+xmltodict==0.10.1
+
+# Development
+pytest==2.9.1
+pytest-mock==0.11.0

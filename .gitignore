@@ -1,0 +1,10 @@
+# Common
+.cache
+
+# Python
+*.pyc
+__pycache__
+
+# Direnv
+.envrc
+.direnv
